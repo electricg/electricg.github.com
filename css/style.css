@@ -1,0 +1,10 @@
+body {
+    background:#FFF;
+}
+h1 {
+    color :#333;
+    font: 90px/1 'MothproofScriptRegular',Arial,sans-serif;
+    letter-spacing: 0;
+    text-align: center;
+/*  text-shadow:2px 2px 2px #333, 6px 6px 6px #666; */
+}

@@ -1,0 +1,9 @@
+#Options +Includes
+#AddHandler server-parsed .html
+#AddHandler application/x-httpd-php .html
+
+AddHandler x-mapp-php5 .html .htm
+
+#php_value auto_prepend_file "/kunden/homepages/22/d358208407/htdocs/test/ga-1.php"
+#php_value auto_append_file "/kunden/homepages/22/d358208407/htdocs/test/ga.php"
+

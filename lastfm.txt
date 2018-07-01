@@ -1,0 +1,2 @@
+﻿Your API Key is 5c94deb58009eebe67f2655a168a3b13
+Your secret is d6f2c05f33fafa9ad29edc94b4ff752b
